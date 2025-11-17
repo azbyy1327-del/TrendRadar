@@ -1,9 +1,12 @@
-胖东来
-于东来
-
+AI
+Gemini
+OpenAI
+Grok
+Claude
+Kimi
+Qwen
 DeepSeek
-梁文锋
-
+HyperOS
 华为
 鸿蒙
 HarmonyOS
